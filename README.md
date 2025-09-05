@@ -1,1 +1,0 @@
-# gas-ai-slides
